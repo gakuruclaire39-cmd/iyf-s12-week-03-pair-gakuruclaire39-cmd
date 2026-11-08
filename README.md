@@ -16,7 +16,7 @@ This repository contains our Week 3 pair programming activities for the IYF Week
 - Work together using Git.
 
 ## Collaboration Activities
-Activities completed in this repository will be documented here.
+Evans completed the merge conflict practice and documented his contribution.
 
 ## Tools Used
 - Git

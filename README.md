@@ -26,3 +26,6 @@ Activities completed in this repository will be documented here.
 
 ## Repository
 [Week 3 Pair Repository](https://github.com/gakuruclaire39-cmd/iyf-s12-week-03-pair-gakuruclaire39-cmd)
+
+## Evans' Contribution
+I worked on improving the project documentation and setting up the collaboration workflow.
